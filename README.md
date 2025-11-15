@@ -1,0 +1,1 @@
+GUI application dedicated for users only
